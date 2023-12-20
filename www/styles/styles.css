@@ -1,0 +1,16 @@
+
+.canon{width: 165px;
+    height: 62px;
+    cursor: pointer;
+    color: red;
+    font-size: 17px;
+    border-radius: 1rem;
+    border: none;
+    background-color: #100720;
+    transition: 0.1s;
+}
+a{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
